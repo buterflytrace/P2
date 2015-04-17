@@ -49,13 +49,13 @@ main h1 {
   font: bolder;
 }
 
-main .container ul {
+main #faqs ul {
   font-weight: bold;
   list-style: circle;
   font-size: 1.3em;
 }
 
-main .container li {
+main #faqs li {
   list-style: square;
   font-size: 1.0em;
 }
