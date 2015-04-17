@@ -19,6 +19,8 @@ header {
 header h1 {
   float: left;
   width: 570px;
+  font-size: 2.5em;
+  font: bolder;
 }
 
 header nav {
@@ -39,6 +41,23 @@ main .left {
 main .right {
   float: right;
   width: 285px;
+  list-style: 
+}
+
+main h1 {
+  font-size: 1.5em;
+  font: bolder;
+}
+
+main .container ul {
+  font-weight: bold;
+  list-style: circle;
+  font-size: 1.3em;
+}
+
+main .container li {
+  list-style: square;
+  font-size: 1.0em;
 }
 
 footer .left {
